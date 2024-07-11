@@ -6,9 +6,10 @@ Coding Enthusiast
 
 A dedicated and technically proficient individual, I am driven by a passion for technology and innovation. With expertise in languages such as C/C++ coupled with hands-on experience in developer tools and frameworks, I have delved into core concepts of Operating Systems, Database Systems, and Data Structures and Algorithms and Object Oriented Programming .
 
-* 🌍  I'm based in Vijayawada
+* 🌍  I'm based in Jaggayyapeta, Andhra Pradesh
 * ✉️  You can contact me at [yaswanthnamburi](mailto:yaswanthnamburi)
-* 🧠  I'm learning Web development
+* 🧠  I'm working on  Web development
+* 🧠  I'm learning Data Structures and Algorithms and Core CS.
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
