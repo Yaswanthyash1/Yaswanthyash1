@@ -1,4 +1,4 @@
-Hi 👋 My name is Namburi Yaswanth
+Hi 👋 I'm Namburi Yaswanth
 =================================
 
 Coding Enthusiast
