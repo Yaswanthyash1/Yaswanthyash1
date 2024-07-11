@@ -8,7 +8,7 @@ A dedicated and technically proficient individual, I am driven by a passion for 
 
 * 🌍  I'm based in Jaggayyapeta, Andhra Pradesh
 * ✉️  You can contact me at [yaswanthnamburi](mailto:yaswanthnamburi)
-* 🧠  I'm working Data Structures and Algorithms and Core CS.
+* 🧠  I'm working on Data Structures and Algorithms and Core CS.
 * 🧠  I'm learning on  Web development
 * 🤝  I'm open to collaborating on Projects
 
